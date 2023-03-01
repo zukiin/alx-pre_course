@@ -1,2 +1,1 @@
-# alx-pre_course
-ALX repo for Git project
+My first readme. Tips
